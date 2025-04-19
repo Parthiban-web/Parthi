@@ -28,7 +28,7 @@ I'm a passionate **Front-End Developer** with hands-on experience in building re
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/parthibans619)
+- 💼 [LinkedIn]www.linkedin.com/in/parthibans619
 - 📧 Email: parthibans3076@gmail.com
 
 ---
