@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parthiban
 
-I'm a passionate **Front-End Developer** with hands-on experience in building responsive and user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and **React.js**.
+I'm a passionate **Python Developer** with hands-on experience in building responsive and user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and **React.js**.
 
 ---
 
